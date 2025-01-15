@@ -2,7 +2,7 @@
 Minimal iso with all the essentials
 
 # Download Links
-[v1.97]([https://filebin.net/ngd1vae0ff6brn2g](https://github.com/techtimefor/AmogOS-Debian/releases/tag/1.97))
+[v1.97](https://github.com/techtimefor/AmogOS-Debian/releases/tag/1.97))
 
 
 # What works:
